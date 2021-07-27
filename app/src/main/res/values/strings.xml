@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InovantApps</string>
+
+    <string name="createacc"><u>CREATE ACCOUNT</u></string>
+    <string name="conditions"><u>Accept Terms &amp; Conditions*</u></string>
+
+    <string name="signin"><u>SIGN IN</u></string>
+</resources>
